@@ -360,7 +360,7 @@ a {
     padding: 1.9em 0 1.6em;
     pointer-events: auto;
     text-align: center;
-    color: #173d50;
+    color: #000000;
     background-color: transparent;
 }
 
@@ -383,12 +383,12 @@ a {
 .duration {
 	font-weight: 700;
 	font-size: 1.3rem;
-	color: #8dc8e4;
+	color: #000000;
 	text-transform: uppercase;
 }
 
 .exclusive .duration {
-	color: #f3b6ab;
+	color: #000000;
 }
 
 .duration::before {
@@ -403,7 +403,7 @@ a {
 
 .currency, 
 .duration {
-    color: #1bbc9d;
+    color: #000000;
 }
 
 .exclusive .currency,
