@@ -13,6 +13,7 @@
     color: #a4003a;
     text-shadow: none;
 }
+#success_message{ display: none;}
 
 
  hr {
