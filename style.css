@@ -53,9 +53,13 @@ body {
     -webkit-overflow-scrolling: touch;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+h1, h3, h4, h5, h6 {
+	font-weight: 600;
     color: #000000;
+}
+h2 {
+	font-weight: 600;
+    color: #ffffff;
 }
 
 
@@ -113,6 +117,10 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: 4px;
 	font-size: 60px;
 	font-weight: bold;
+}
+h2 {
+	font-weight: 600;
+    color: #ffffff;
 }
 
 #headerwrap h4 {
