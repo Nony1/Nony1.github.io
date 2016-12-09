@@ -365,7 +365,7 @@ a {
 }
 
 .exclusive .pricing-header {
-    color: #1bbc9d;
+    color: #000000;
     background-color: transparent;
 }
 
@@ -528,7 +528,7 @@ a {
     padding: 1.3em 2em;
     color: #1bbc9d;
     border-radius: 8px;
-    border: 2px solid #1bbc9d;
+    border: 2px solid #000000;
     font-size: 1.4rem;
     text-indent: 0;
     text-transform: uppercase;
