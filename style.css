@@ -151,7 +151,7 @@ h2 {
 }
 
 #workwrap {	
-	background: url(back.jpg) no-repeat center top;
+	background: url(header.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -186,7 +186,7 @@ h2 {
 }
 
 #aboutwrap {	
-	background: url(back.jpg) no-repeat center top;
+	background: url(header.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
